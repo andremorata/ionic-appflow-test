@@ -1,0 +1,7 @@
+{
+  "name": "Temp Forms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
